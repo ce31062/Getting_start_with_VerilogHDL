@@ -6,3 +6,4 @@
 全加算器(fulladd.v)<br>
 4-bit全加算器(adder_ropple.v)<br>
 4-bitカウンタ(counter4.v)<br>
+電子錠
