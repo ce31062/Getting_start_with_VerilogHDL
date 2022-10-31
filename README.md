@@ -19,9 +19,9 @@ Lattice MachXO3D Breaking Boardを用いて実装を行った。<br>
 デコーダ<br>
 
 ## 第5章
-同期SR-FF<br>
-同期セット/リセット付きD-FF<br>
-同期セット/リセット付きJL-FF<br>
-同期リセット付きT-FF<br>
+同期SR-FF(srff_sync.v)<br>
+同期セット/リセット付きD-FF(dff_sync.v)<br>
+同期セット/リセット付きJK-FF(jkff_sync.v)<br>
+同期リセット付きT-FF(tff_syc.v)<br>
 
 
