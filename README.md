@@ -1,4 +1,4 @@
-# Getting_with_VerilogHDL
+# Getting Start With VerilogHDL
 "入門VerilogHDL記述"の演習用リポジトリ<br>
 
 Lattice MachXO3D Breaking Boardを用いて実装を行った。<br>
@@ -15,7 +15,13 @@ Lattice MachXO3D Breaking Boardを用いて実装を行った。<br>
 消灯: 施錠<br>
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/74296872/195470252-a4ecb009-b716-4882-bf28-3a325552aa3e.gif)
 
-## 第3章
+## 第4章
 デコーダ<br>
+
+## 第5章
+同期SR-FF<br>
+同期セット/リセット付きD-FF<br>
+同期セット/リセット付きJL-FF<br>
+同期リセット付きT-FF<br>
 
 
