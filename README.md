@@ -9,7 +9,7 @@ Lattice MachXO3D Breaking Boardを用いて実装を行った。<br>
 - 4-bit全加算器 (adder_ropple.v)<br>
 - 4-bitカウンタ (counter4.v)<br>
 ## 第2章
-### 電子錠<br>
+### 電子錠 (elelock.v)<br>
 暗唱番号は回路で"5963"に固定<br>
 LED点灯：開錠<br>
 LED消灯: 施錠<br>
@@ -23,5 +23,6 @@ LED消灯: 施錠<br>
 - 同期セット/リセット付きD-FF (dff_sync.v)<br>
 - 同期セット/リセット付きJK-FF (jkff_sync.v)<br>
 - 同期リセット付きT-FF (tff_syc.v)<br>
-
+- 同期リセット/ロード付きD-FF (dff.v)<br>
+- 4bitカウンタ (counter.v)<br>
 
