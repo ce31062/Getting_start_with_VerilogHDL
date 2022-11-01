@@ -16,8 +16,9 @@ LED消灯: 施錠<br>
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/74296872/195470252-a4ecb009-b716-4882-bf28-3a325552aa3e.gif)
 
 ## 第4章
-- デコーダ<br>
-
+- 等号演算によるデコーダ (decoder_cond.v)<br>
+- if文によるデコーダ (decoder_if.v)<br>
+- case文によるデコーダ (decoder_case.v)<br>
 ## 第5章
 - 同期SR-FF (srff_sync.v)<br>
 - 同期セット/リセット付きD-FF (dff_sync.v)<br>
