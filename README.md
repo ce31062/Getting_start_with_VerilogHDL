@@ -26,4 +26,8 @@ LED消灯: 施錠<br>
 - 同期リセット付きT-FF (tff_syc.v)<br>
 - 同期リセット/ロード付きD-FF (dff.v)<br>
 - 4bitカウンタ (counter.v)<br>
-
+## 第6章
+- ROMシミュレーションモデル (rom.v)<br>
+- RAMシミュレーションモデル (ram.v)<br>
+- ADCシミュレーションモデル (ad_block.v)<br>
+- DACシミュレーションモデル (da_block.v)<br>
