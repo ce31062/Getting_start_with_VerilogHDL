@@ -1,6 +1,5 @@
 # Getting Start With VerilogHDL
-"入門VerilogHDL記述"の演習用リポジトリ<br>
-
+CQ出版 "入門VerilogHDL記述"の演習用リポジトリ<br>
 Lattice MachXO3D Breaking Boardを用いて実装を行った。<br>
 
 ## 第1章
