@@ -1,6 +1,6 @@
 # Getting Start With VerilogHDL
-CQ出版 "入門VerilogHDL記述"の演習用リポジトリ<br>
-Lattice MachXO3D Breaking Boardを用いた実装を行ったり、テストベンチを作成して動作確認を行っている。<br>
+CQ出版 "入門VerilogHDL記述"の内容に従い、<br>
+Lattice MachXO3D Breaking Boardへの実装を行ったり、テストベンチを作成して動作確認を行っている。<br>
 
 ## 第1章
 - 4-bit加算器 (adder4.v)<br>
@@ -30,3 +30,9 @@ LED消灯: 施錠<br>
 - RAMシミュレーションモデル (ram.v)<br>
 - ADCシミュレーションモデル (ad_block.v)<br>
 - DACシミュレーションモデル (da_block.v)<br>
+## 第8章
+- CLKGEN (clkgen.v)<br>
+- Keyscan (keyscan.v)<br>
+- 本体 (elelock2.v)<br>
+- 表示部 (display.v)<br>
+- トップモジュール(top_elelock2.v)<br>
