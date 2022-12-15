@@ -1,6 +1,6 @@
 # Getting Start With VerilogHDL
 CQ出版 "入門VerilogHDL記述"の内容に従い、<br>
-Lattice MachXO3D Breaking Boardへの実装を行ったり、テストベンチを作成して動作確認を行っている。<br>
+Lattice MachXO3D Breaking Boardへの実装を行ったり、テストベンチを作成してシミュレーション動作確認を行っている。<br>
 
 ## 第1章
 - 4-bit加算器 (adder4.v)<br>
